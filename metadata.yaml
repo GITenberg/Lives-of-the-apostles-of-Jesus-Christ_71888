@@ -1,0 +1,26 @@
+_repo: Lives-of-the-apostles-of-Jesus-Christ_71888
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacon, David Francis
+    gutenberg_agent_id: '56444'
+    url: http://www.gutenberg.org/2009/agents/56444
+description: ''
+gutenberg_issued: '2023-10-16'
+identifiers:
+  gutenberg: '71888'
+language: en
+pgterms:marc904: https://archive.org/details/livesofapostleso02baco
+pgterms:marc905: 20180610112729bacon
+pgterms:marc906: '1836'
+pgterms:marc907: US
+production_note: Richard Hulse and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew Haven :$bL. H. Young, $c1836.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lives of the apostles of Jesus Christ
+url: http://www.gutenberg.org/ebooks/71888
